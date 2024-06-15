@@ -13,6 +13,7 @@ Regression project IPL score Prediction
 3. **Upload Data:**
    - Upload the IPL dataset file ('ipl_data.csv') to your Google Colab environment. You can do this by clicking on the 'Files' tab on the left sidebar and then uploading the file.
    - KAGGLE LINK : kaggle datasets download -d patrickb1912/ipl-complete-dataset-20082020
+   - https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 4. **Data Preprocessing and Model Training:**
    - Copy and paste the code for data preprocessing, feature scaling, defining the neural network model, compiling the model, and training the model using the IPL dataset. Ensure that you run this code block to preprocess the data and train the model.
